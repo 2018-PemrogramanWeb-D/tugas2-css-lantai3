@@ -1,0 +1,35 @@
+body{
+	background-image : url("http://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2018/04/25/2396369652.jpg");
+	background-size : cover;
+}
+
+p {
+	font-family : Calibri ;
+	font-size : 20px;
+	margin-left : 30px;
+}
+
+cr {
+	font-family : Times New Roman ;
+	font-size : 12px;
+}
+
+.header{
+	top : 0;
+	font-size : 22px;
+	font-family : Comic Sans MS;
+	color : white;
+	position : fixed;
+	width : 100%;
+	background-color :  gray;
+	background: rgba(0,0,0,0.4);
+	text-align : center;
+}
+
+.content{
+	background-color : white;
+	background: rgba(128,0,0,0.7);
+	margin-top : 200px;
+}
+
+
